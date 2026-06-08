@@ -17,7 +17,7 @@ on:
 
 jobs:
   run:
-    uses: crazy-max/.github/.github/workflows/zizmor.yml@bbd31df64ee0f097a02f12495f541f9236f18c46 # v1.2.0
+    uses: crazy-max/.github/.github/workflows/zizmor.yml@716fd1c51a46c5d93a41d44a94b439c9ee802536 # v1.10.0
     permissions:
       contents: read
       security-events: write
