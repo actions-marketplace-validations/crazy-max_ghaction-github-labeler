@@ -1905,7 +1905,7 @@ __metadata:
     eslint-config-prettier: "npm:^10.1.8"
     eslint-plugin-prettier: "npm:^5.5.5"
     globals: "npm:^17.3.0"
-    js-yaml: "npm:^4.1.1"
+    js-yaml: "npm:^5.1.0"
     matcher: "npm:^6.0.0"
     prettier: "npm:^3.8.1"
     typescript: "npm:^5.9.3"
@@ -2204,6 +2204,17 @@ __metadata:
   bin:
     js-yaml: bin/js-yaml.js
   checksum: 10/a52d0519f0f4ef5b4adc1cde466cb54c50d56e2b4a983b9d5c9c0f2f99462047007a6274d7e95617a21d3c91fde3ee6115536ed70991cd645ba8521058b78f77
+  languageName: node
+  linkType: hard
+
+"js-yaml@npm:^5.1.0":
+  version: 5.1.0
+  resolution: "js-yaml@npm:5.1.0"
+  dependencies:
+    argparse: "npm:^2.0.1"
+  bin:
+    js-yaml: bin/js-yaml.mjs
+  checksum: 10/0361e773deeff5e75c5ff37dbfce639490b3cba17fe9f2e86c353790527936c4860a3c189262910157ee85e00e1e4a217b042658fdf19f1fce8af0af6628ff4d
   languageName: node
   linkType: hard
 
